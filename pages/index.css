@@ -226,7 +226,7 @@
   line-height: 20px;
 }
 
-.form_label_type_checkbox {
+.form__label_type_checkbox {
   margin: 0;
   display: flex;
   justify-content: center;
