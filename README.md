@@ -12,5 +12,3 @@ This is the second project of the fulltime Software Engineering program at Tripl
 - CSS animation and transform
 
 ## Plan on improving the project
-
-Add your ideas here :)
